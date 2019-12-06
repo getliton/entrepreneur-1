@@ -1,0 +1,77 @@
+/* Laptop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+
+
+
+
+
+}
+
+
+/* Normal desktop (LG) :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+
+
+
+
+
+
+}
+
+
+/* Tablet desktop (MD) :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-btn{
+       display: none;
+    }
+    .approach-conent h4 {
+        padding-top: 29px;
+        font-size: 17px;
+    }
+    .approach-conent p {
+        font-size: 10.5px;
+        padding-right: 10px;
+    }
+    .approach-no {
+        top: 16%;
+        left: -9%;
+    }
+    .approach-no h5 {
+        font-size: 40px;
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+      
+    }
+    .approach-no span {
+  
+        font-size: 19px;
+
+        padding-left: 20px;
+        padding-right: 20px;
+
+    }
+
+}
+
+
+/* small mobile (XS) :320px. */
+@media (max-width: 767px) {
+
+
+
+
+}
+
+/*
+Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+	
+
+}
